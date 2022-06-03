@@ -17,7 +17,7 @@ Studying in **Eulji University**
 ### 💻 Tech Blog
   <a href="https://velog.io/@uxri/"><img src="https://img.shields.io/badge/velog-20C997?style=flat-square&logo=velog&logoColor=white&link=https://velog.io/@uxri/"/></a>
   
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fzzsza)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/uxri)](https://hits.seeyoufarm.com)
   
 ---
 
