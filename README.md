@@ -15,7 +15,7 @@ Studying in **Eulji University**
 ### ⚒ Tools
 <img src="https://img.shields.io/badge/Git-F05032?sytle=flat-square&logo=Git&logoColor=white"/> <img src="https://img.shields.io/badge/Github-181717?sytle=flat-square&logo=Github&logoColor=white"/> <img src="https://img.shields.io/badge/GitKraken-179287?sytle=flat-square&logo=GitKraken&logoColor=white"/> <img src="https://img.shields.io/badge/Notion-000000?sytle=flat-square&logo=Notion&logoColor=white"/> <img src="https://img.shields.io/badge/Postman-FF6C37?sytle=flat-square&logo=Postman&logoColor=white"/> 
 ### 💻 Tech Blog
-<img src="https://img.shields.io/badge/velog-20C997?style=flat-square&logo=velog&logoColor=white"/> 
+<a href="[https://velog.io/@uxri]"> <img src="https://img.shields.io/badge/velog-20C997?style=flat-square&logo=velog&logoColor=white"/> </a>
   
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fzzsza)](https://hits.seeyoufarm.com)
   
