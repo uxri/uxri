@@ -19,7 +19,7 @@ Studying in **Eulji University**
   
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/uxri)](https://hits.seeyoufarm.com)
   
----
+--- 
 
   
 [![UXRI's GitHub stats](https://github-readme-stats.vercel.app/api?username=uxri&show_icons=true&theme=dracula)](https://github.com/uxri/github-readme-stats)
