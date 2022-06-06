@@ -6,7 +6,7 @@
 🏫 Eulji University Dept. of Medical IT(2019 ~)
 
 ### **🔥 Experience**
-- 한이음 ICT 멘토링 & 공모전 [Development of Smart Wheelchair Using IoT](https://www.hanium.or.kr/portal/project/teamBlogView.do)
+- 한이음 ICT 멘토링 & 공모전 Development of Smart Wheelchair Using IoT
 - JIIBC 논문 게재 [IoT를 활용한 지능형 스마트 휠체어](http://www.jiibc.kr/bbs/board.php?bo_table=collect_paper&wr_id=3137&yy=2022)
 - 30th THE SOPT Android Part
 - 30th THE SOPT SOPKATHON [심포니 : 감정을 악보에 담다](https://github.com/THE-SOPT-SOPKATHON-TEAM6/Symphony-Android) Android Developer
