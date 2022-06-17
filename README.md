@@ -7,7 +7,7 @@
 
 ### **🔥 Experience**
 - 한이음 ICT 멘토링 & 공모전 Development of Smart Wheelchair Using IoT
-- JIIBC [IoT를 활용한 지능형 스마트 휠체어](http://www.jiibc.kr/bbs/board.php?bo_table=collect_paper&wr_id=3137&yy=2022) 논문 
+- JIIBC [IoT를 활용한 지능형 스마트 휠체어](http://www.jiibc.kr/bbs/board.php?bo_table=collect_paper&wr_id=3137&yy=2022) 논문 게재  
 - 30th THE SOPT Android Part
 - 30th THE SOPT SOPKATHON [심포니 : 감정을 악보에 담다](https://github.com/THE-SOPT-SOPKATHON-TEAM6/Symphony-Android) Android Developer
 ---
