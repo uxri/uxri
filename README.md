@@ -29,7 +29,7 @@
   
 [![UXRI's GitHub stats](https://github-readme-stats.vercel.app/api?username=uxri&show_icons=true&theme=dracula)](https://github.com/uxri/github-readme-stats)
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uxri&langs_count=10&layout=compact&theme=dark)](https://github.com/uxri)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uxri&langs_count=10&layout=compact&theme=dracula)](https://github.com/uxri)
   
    </div>
  
