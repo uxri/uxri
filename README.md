@@ -2,7 +2,7 @@
 
 ### **👩🏻‍💻 About me**
 
-🏫 Hangaram High School(2016 ~ 2018)  
+🏫 Hangaram High School(2016 ~ 2018)   
 🏫 Eulji University Dept. of Medical IT(2019 ~)
 
 ### **🔥 Experience**
