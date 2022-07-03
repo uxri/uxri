@@ -1,5 +1,5 @@
 ## Hi There, I'm Yuree Choi!👍🏻 
-
+ 
 ### **👩🏻‍💻 About me**
 
 🏫 Hangaram High School(2016 ~ 2018)   
