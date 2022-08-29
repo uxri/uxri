@@ -1,4 +1,4 @@
-## Hi There, I'm Yuree Choi!👍🏻
+## Hi There, I'm Yuree Choi!👍🏻 
   
 ### **👩🏻‍💻 About me**
 
